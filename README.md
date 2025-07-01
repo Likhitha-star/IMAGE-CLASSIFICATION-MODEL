@@ -34,4 +34,6 @@ In conclusion, this project successfully demonstrated how Convolutional Neural N
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/e683e9ef-f757-49f7-b4ce-ba5fa9af27ff)
+
 
